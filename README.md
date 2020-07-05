@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🤔 I was learning formal verification with Coq formally, but want to **build things** now.
+- 😬 I am broadly interested in **computer systems** and **programming languages** (just a beginner 🥺).
+- 🤩 (I hope I can) code for fun!
+
 <!--
 **xxchan/xxchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
