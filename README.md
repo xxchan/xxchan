@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xxchan&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+
 - 🤔 I was learning formal verification with Coq formally, but want to **build things** now.
 - 😬 I am broadly interested in **computer systems** and **programming languages** (just a beginner 🥺).
 - 🤩 (I hope I can) code for fun!
