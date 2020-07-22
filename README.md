@@ -7,6 +7,9 @@
 - 😬 I am broadly interested in **computer systems** and **programming languages** (just a beginner 🥺).
 - 🤩 (I hope I can) code for fun!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **xxchan/xxchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
