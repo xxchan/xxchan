@@ -6,17 +6,17 @@
 - 🤔 I was learning formal verification with Coq formally, but want to **build things** now.
 - 😬 I am broadly interested in **computer systems** and **programming languages** (just a beginner 🥺).
 - 🤩 (I hope I can) code for fun!
+- 😇 …………
+
+
+---
+
+
+
+
 
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
 
-```text
-🌞 Morning    89 commits     █████████░░░░░░░░░░░░░░░░   37.71% 
-🌆 Daytime    101 commits    ██████████░░░░░░░░░░░░░░░   42.8% 
-🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
-🌙 Night      44 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.64%
-
-```
 
 
 📊 **This week I spent my time on** 
