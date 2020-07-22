@@ -93,4 +93,6 @@ if __name__ == '__main__':
     # if new_readme != rdmd:
     #     repo.update_file(path=contents.path, message='Updated with Dev Metrics',
     #                      content=new_readme, sha=contents.sha, branch='master')
-    print(new_readme)
+    # print(new_readme)
+    with open("../README.md", "w") as f:
+        f.write(new_readme)
