@@ -18,9 +18,9 @@ jobs:
       with:
         python-version: 3.7
     - name: Install dependencies
-      run: pip3 install script/requirements.txt
+      run: pip3 install -r script/requirements.txt
     - name: Generate new README
-      run: python3 script/waka.py > README.md
+      run: python3 script/waka.py > README.md && cat README.md
       env:
         GH_TOKEN: ${{ github.token }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
