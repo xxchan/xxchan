@@ -88,6 +88,7 @@ if __name__ == '__main__':
         sys.exit(1)
     contents = repo.get_readme()
     waka_stats = get_stats()
+    print(waka_status)
     rdmd = decode_readme(contents.content)
     new_readme = generate_new_readme(stats=waka_stats, readme=rdmd)
     # if new_readme != rdmd:
