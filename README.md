@@ -11,7 +11,7 @@
 
 ---
 
-📊 **This week I spent my time on** 
+📊 **The last 7 days I spent my time on** 
 
 <!--START_SECTION:waka-->
 ```text
