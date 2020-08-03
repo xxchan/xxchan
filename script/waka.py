@@ -18,7 +18,7 @@ listReg = f"{START_COMMENT}[\\s\\S]+{END_COMMENT}"
 user = os.getenv('USERNAME')
 waka_key = os.getenv('WAKATIME_API_KEY')
 ghtoken = os.getenv('GH_TOKEN')
-show_title = true
+show_title = True
 
 
 def this_week() -> str:
