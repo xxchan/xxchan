@@ -18,11 +18,12 @@ listReg = f"{START_COMMENT}[\\s\\S]+{END_COMMENT}"
 user = os.getenv('USERNAME')
 waka_key = os.getenv('WAKATIME_API_KEY')
 ghtoken = os.getenv('GH_TOKEN')
-show_title = True
+show_title = 'true'
 
 
 def this_week() -> str:
     '''Returns a week streak'''
+    print(week_end)
     week_end = datetime.datetime.today() - datetime.timedelta(days=1)
     week_start = week_end - datetime.timedelta(days=7)
     print("Week header created")
