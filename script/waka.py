@@ -26,11 +26,11 @@ def this_week() -> str:
     utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
     bj_dt = utc_dt.astimezone(timezone(timedelta(hours=8)))
 
-    week_end = bj_dt - datetime.timedelta(days=1)
-    week_start = week_end - datetime.timedelta(days=7)
+    week_end = bj_dt - timedelta(days=1)
+    week_start = week_end - timedelta(days=7)
     print("Week header created")
     print(week_end)
-    return f"Week: {week_start.strftime('%d %B, %Y')} - {week_end.strftime('%d %B, %Y')}"
+    return f"{week_start.strftime('%d %B, %Y')} - {week_end.strftime('%d %B, %Y')}"
 
 
 def make_graph(percent: float) -> str:
