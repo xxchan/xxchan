@@ -7,7 +7,7 @@ import re
 import os
 import sys
 import base64
-import datetime
+from datetime import datetime, timedelta, timezone
 import requests
 from github import Github, GithubException
 
@@ -23,7 +23,10 @@ show_title = 'true'
 
 def this_week() -> str:
     '''Returns a week streak'''
-    week_end = datetime.datetime.today() - datetime.timedelta(days=1)
+    utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
+    bj_dt = utc_dt.astimezone(timezone(timedelta(hours=8)))
+
+    week_end = bj_dt - datetime.timedelta(days=1)
     week_start = week_end - datetime.timedelta(days=7)
     print("Week header created")
     print(week_end)
