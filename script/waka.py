@@ -22,7 +22,7 @@ show_title = 'true'
 
 
 def this_week() -> str:
-    '''Returns a week streak''
+    '''Returns a week streak'''
     week_end = datetime.datetime.today() - datetime.timedelta(days=1)
     week_start = week_end - datetime.timedelta(days=7)
     print("Week header created")
