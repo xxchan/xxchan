@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-17 August, 2020 - 24 August, 2020
+18 August, 2020 - 25 August, 2020
 
 Rust       5 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   38.84 % 
 Java       4 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   26.65 % 
