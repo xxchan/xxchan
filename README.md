@@ -4,7 +4,9 @@
 - 😬 I am broadly interested in **computer systems** and **programming languages** (just a beginner 🥺).
 - 🤩 (I hope I can) code for fun!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxchan&hide=HTML,css&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xxchan&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxchan&hide=HTML,css&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 ---
 
@@ -14,11 +16,11 @@
 ```text
 22 August, 2020 - 29 August, 2020
 
-Rust       9 hrs           █████████████░░░░░░░░░░░░   54.72 % 
-Markdown   3 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   22.88 % 
-C          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-C++        1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-YAML       23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Rust       8 hrs 56 mins   █████████████░░░░░░░░░░░░   53.99 % 
+Markdown   3 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   22.76 % 
+C          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+C++        1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+YAML       23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 <!--END_SECTION:waka-->
 
