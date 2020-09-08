@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-31 August, 2020 - 07 September, 2020
+01 September, 2020 - 08 September, 2020
 
 Rust       1 hr 39 mins    █████████████████████░░░░   85.00 % 
 Markdown   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.14 % 
