@@ -12,12 +12,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-02 September, 2020 - 09 September, 2020
+03 September, 2020 - 10 September, 2020
 
-Rust       1 hr 27 mins    ████████████████████░░░░░   83.36 % 
-Markdown   16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Rust       1 hr 27 mins    ████████████████████████░   97.83 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 <!--END_SECTION:waka-->
 
