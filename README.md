@@ -12,9 +12,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-06 September, 2020 - 13 September, 2020
+07 September, 2020 - 14 September, 2020
 
-Markdown   1 min           █████████████████████████   100.00 %
+Python       51 mins         ████████████████████████░   98.35 % 
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 <!--END_SECTION:waka-->
 
