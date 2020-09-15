@@ -52,6 +52,9 @@ def get_stats() -> str:
         print("Please Add your WakaTime API Key to the Repository Secrets")
         sys.exit(1)
 
+    if len(lang_data) == 0:
+        return "Oops, no coding activity at all :("
+
     data_list = []
     pad = len(max([l['name'] for l in lang_data[:5]], key=len))
     for lang in lang_data[:5]:
