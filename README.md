@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-09 September, 2020 - 16 September, 2020
+10 September, 2020 - 17 September, 2020
 
 Python       51 mins         ████████████████████████░   98.35 % 
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
