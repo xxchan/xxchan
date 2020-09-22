@@ -12,12 +12,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-14 September, 2020 - 21 September, 2020
+15 September, 2020 - 22 September, 2020
 
-Python       51 mins         ████████████████████████░   98.35 % 
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Rust    20 mins         ████████████████░░░░░░░░░   64.43 % 
+Other   9 mins          ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+XML     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
 ```
 <!--END_SECTION:waka-->
 
