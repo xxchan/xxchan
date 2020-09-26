@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-18 September, 2020 - 25 September, 2020
+19 September, 2020 - 26 September, 2020
 
 Rust    20 mins         ████████████████░░░░░░░░░   64.43 % 
 Other   9 mins          ███████░░░░░░░░░░░░░░░░░░   28.32 % 
