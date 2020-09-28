@@ -12,11 +12,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-20 September, 2020 - 27 September, 2020
+21 September, 2020 - 28 September, 2020
 
-Rust    20 mins         ████████████████░░░░░░░░░   64.43 % 
-Other   9 mins          ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-XML     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Rust    29 mins         ██████████████████░░░░░░░   71.90 % 
+Other   9 mins          █████░░░░░░░░░░░░░░░░░░░░   22.37 % 
+XML     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 <!--END_SECTION:waka-->
 
