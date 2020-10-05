@@ -11,11 +11,7 @@
 📊 **The last 7 days I spent my time on** 
 
 <!--START_SECTION:waka-->
-```text
-27 September, 2020 - 04 October, 2020
-
-Rust   8 mins          █████████████████████████   100.00 %
-```
+Oops, no coding activity at all :(
 <!--END_SECTION:waka-->
 
 <!--
