@@ -11,7 +11,11 @@
 📊 **The last 7 days I spent my time on** 
 
 <!--START_SECTION:waka-->
-Oops, no coding activity at all :(
+```text
+22 October, 2020 - 29 October, 2020
+
+YAML   0 secs          █████████████████████████   100.00 %
+```
 <!--END_SECTION:waka-->
 
 <!--
