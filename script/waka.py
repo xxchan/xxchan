@@ -27,10 +27,10 @@ def this_week() -> str:
     bj_dt = utc_dt.astimezone(timezone(timedelta(hours=8)))
 
     week_end = bj_dt - timedelta(days=1)
-    week_start = week_end - timedelta(days=7)
+    week_start = week_end - timedelta(days=6)
     print("Week header created")
     print(week_end)
-    return f"{week_start.strftime('%d %B, %Y')} - {week_end.strftime('%d %B, %Y')}"
+    return f"{.strftime('%d %B, %Y')} - {week_end.strftime('%d %B, %Y')}"
 
 
 def make_graph(percent: float) -> str:
