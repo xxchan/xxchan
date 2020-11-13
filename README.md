@@ -12,9 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-05 November, 2020 - 12 November, 2020
+06 November, 2020 - 12 November, 2020
 
-YAML   0 secs          █████████████████████████   100.00 %
+Rust       1 hr 24 mins    ███████████████████░░░░░░   77.63 % 
+TOML       19 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Python     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 <!--END_SECTION:waka-->
 
