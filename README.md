@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-07 November, 2020 - 13 November, 2020
+08 November, 2020 - 14 November, 2020
 
 Rust       1 hr 24 mins    ███████████████████░░░░░░   77.63 % 
 TOML       19 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.25 % 
