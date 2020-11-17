@@ -45,7 +45,7 @@ def get_stats() -> str:
     '''Gets API data and returns markdown progress'''
     data = requests.get(
         f"https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key={waka_key}").json()
-
+    print("WAKA data: end:{}".format(data['data']['end']))
     try:
         lang_data = data['data']['languages']
     except KeyError:
@@ -64,8 +64,8 @@ def get_stats() -> str:
         fmt_percent = format(lang['percent'], '0.2f').zfill(5)
         data_list.append(
             f"{lang['name']}{' '*(pad + 3 - lth)}{lang['text']}{' '*(16 - ln_text)}{make_graph(lang['percent'])}   {fmt_percent} %")
-    print("Graph Generated")
     data = ' \n'.join(data_list)
+    print("Graph Generated\n{}".format(data))
     if show_title == 'true':
         print("Stats with Weeks in Title Generated")
         return '```text\n'+this_week()+'\n\n'+data+'\n```'
