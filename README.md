@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-10 November, 2020 - 16 November, 2020
+11 November, 2020 - 17 November, 2020
 
 Haskell    5 hrs 59 mins   ██████████████░░░░░░░░░░░   59.02 % 
 Rust       1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   15.14 % 
