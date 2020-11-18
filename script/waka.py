@@ -8,6 +8,8 @@ import os
 import sys
 import base64
 from datetime import datetime, timedelta, timezone
+from time import sleep
+
 import requests
 from github import Github, GithubException
 
@@ -45,6 +47,12 @@ def get_stats() -> str:
     '''Gets API data and returns markdown progress'''
     data = requests.get(
         f"https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key={waka_key}").json()
+    while not data['data']['is_up_to_date']:
+        print("data not up-to-date, retry")
+        sleep(1)
+        data = requests.get(
+            f"https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key={waka_key}").json()
+
     print("WAKA data: end:{}".format(data['data']['end']))
     try:
         lang_data = data['data']['languages']
