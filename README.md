@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-02 December, 2020 - 08 December, 2020
+03 December, 2020 - 09 December, 2020
 
 Haskell    50 mins         ███████████████░░░░░░░░░░   62.30 % 
 TeX        24 mins         ███████░░░░░░░░░░░░░░░░░░   30.07 % 
