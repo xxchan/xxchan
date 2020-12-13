@@ -15,12 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-06 December, 2020 - 12 December, 2020
+07 December, 2020 - 13 December, 2020
 
-TeX       24 mins         █████████████████████████   99.91 % 
-Haskell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-HTML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TeX   0 secs          █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
