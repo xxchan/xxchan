@@ -15,9 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-08 December, 2020 - 14 December, 2020
+09 December, 2020 - 15 December, 2020
 
-TeX   0 secs          █████████████████████████   100.00 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
 
