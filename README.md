@@ -15,9 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-09 December, 2020 - 15 December, 2020
+10 December, 2020 - 16 December, 2020
 
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       1 hr 14 mins    █████████████████████████   99.57 % 
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
 
