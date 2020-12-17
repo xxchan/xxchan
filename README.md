@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-10 December, 2020 - 16 December, 2020
+11 December, 2020 - 17 December, 2020
 
 Python       1 hr 14 mins    █████████████████████████   99.57 % 
 SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
