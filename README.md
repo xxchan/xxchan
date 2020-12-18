@@ -15,12 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-11 December, 2020 - 17 December, 2020
+12 December, 2020 - 18 December, 2020
 
-Python       1 hr 14 mins    █████████████████████████   99.57 % 
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     1 hr 14 mins    █████████████████████░░░░   87.47 % 
+Verilog    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 <!--END_SECTION:waka-->
 
