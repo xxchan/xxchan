@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-13 December, 2020 - 19 December, 2020
+14 December, 2020 - 20 December, 2020
 
 Python     1 hr 14 mins    █████████████████████░░░░   87.47 % 
 Verilog    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
