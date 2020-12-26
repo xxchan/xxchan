@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-19 December, 2020 - 25 December, 2020
+20 December, 2020 - 26 December, 2020
 
 TeX       14 mins         █████████████████░░░░░░░░   69.92 % 
 Verilog   5 mins          ██████░░░░░░░░░░░░░░░░░░░   26.76 % 
