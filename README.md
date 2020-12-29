@@ -15,10 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-22 December, 2020 - 28 December, 2020
+23 December, 2020 - 29 December, 2020
 
-TeX     14 mins         ███████████████████████░░   95.47 % 
-Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Python   52 mins         ███████████████████████░░   94.50 % 
+CSV      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
 <!--END_SECTION:waka-->
 
