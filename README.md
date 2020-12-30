@@ -15,10 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-23 December, 2020 - 29 December, 2020
+24 December, 2020 - 30 December, 2020
 
-Python   52 mins         ███████████████████████░░   94.50 % 
-CSV      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Python     52 mins         █████████████░░░░░░░░░░░░   55.39 % 
+Markdown   36 mins         █████████░░░░░░░░░░░░░░░░   38.65 % 
+CSV        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Coq        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 <!--END_SECTION:waka-->
 
