@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-26 December, 2020 - 01 January, 2021
+27 December, 2020 - 02 January, 2021
 
 Python     1 hr 55 mins    ██████████████████░░░░░░░   72.43 % 
 Markdown   36 mins         █████░░░░░░░░░░░░░░░░░░░░   22.79 % 
