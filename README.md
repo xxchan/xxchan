@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-01 January, 2021 - 07 January, 2021
+02 January, 2021 - 08 January, 2021
 
 Java         7 mins          █████████████████████░░░░   87.04 % 
 Python       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
