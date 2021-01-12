@@ -14,7 +14,12 @@
 📊 **The last 7 days I spent my time on** 
 
 <!--START_SECTION:waka-->
-Oops, no coding activity at all :(
+```text
+06 January, 2021 - 12 January, 2021
+
+Coq     4 mins          ███████████████████████░░   93.72 % 
+OCaml   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+```
 <!--END_SECTION:waka-->
 
 <!--
