@@ -15,10 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-06 January, 2021 - 12 January, 2021
+07 January, 2021 - 13 January, 2021
 
-Coq     4 mins          ███████████████████████░░   93.72 % 
-OCaml   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Coq     6 mins          ████████████████████████░   95.73 % 
+OCaml   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 <!--END_SECTION:waka-->
 
