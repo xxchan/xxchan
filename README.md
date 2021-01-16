@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-09 January, 2021 - 15 January, 2021
+10 January, 2021 - 16 January, 2021
 
 Coq     6 mins          ████████████████████████░   95.73 % 
 OCaml   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
