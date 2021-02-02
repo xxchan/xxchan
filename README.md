@@ -15,11 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-26 January, 2021 - 01 February, 2021
+27 January, 2021 - 02 February, 2021
 
-Go      17 hrs 36 mins  █████████████████░░░░░░░░   68.97 % 
-Text    7 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   31.01 % 
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go     17 hrs 22 mins  █████████████████░░░░░░░░   68.70 % 
+Text   7 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   31.30 %
 ```
 <!--END_SECTION:waka-->
 
