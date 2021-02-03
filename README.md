@@ -15,10 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-27 January, 2021 - 02 February, 2021
+28 January, 2021 - 03 February, 2021
 
-Go     17 hrs 22 mins  █████████████████░░░░░░░░   68.70 % 
-Text   7 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   31.30 %
+Go           15 hrs 55 mins  ████████████████░░░░░░░░░   65.38 % 
+Text         7 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Bash         34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 <!--END_SECTION:waka-->
 
