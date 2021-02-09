@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-02 February, 2021 - 08 February, 2021
+03 February, 2021 - 09 February, 2021
 
 Go         7 hrs 22 mins   █████████████████░░░░░░░░   69.49 % 
 Text       1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.38 % 
