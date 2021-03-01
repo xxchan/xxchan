@@ -15,13 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-22 February, 2021 - 28 February, 2021
+23 February, 2021 - 01 March, 2021
 
-Go             11 hrs 7 mins   ██████████░░░░░░░░░░░░░░░   39.86 % 
-Markdown       8 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   30.99 % 
-Text           4 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-TeX            2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-OpenEdge ABL   20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Markdown       8 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   37.62 % 
+Go             7 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   31.64 % 
+Text           3 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+TeX            2 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+OpenEdge ABL   20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 <!--END_SECTION:waka-->
 
