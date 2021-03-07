@@ -15,12 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-28 February, 2021 - 06 March, 2021
+01 March, 2021 - 07 March, 2021
 
-Markdown     3 hrs 41 mins   ███████████████░░░░░░░░░░   60.67 % 
-Go           2 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   39.09 % 
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Go           2 hrs 22 mins   █████████████████████████   99.70 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 <!--END_SECTION:waka-->
 
