@@ -15,10 +15,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-05 March, 2021 - 11 March, 2021
+06 March, 2021 - 12 March, 2021
 
 Go           1 hr 46 mins    █████████████████████████   99.60 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
 
