@@ -11,6 +11,13 @@
 -->
 
 
+- 🌱 I’m currently learning Type Theory.
+- 💬 Welcome to chat with me.
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xxchan&theme=flat)](https://github.com/xxchan)
+
+
 📊 **The last 7 days I spent my time on** 
 
 <!--START_SECTION:waka-->
