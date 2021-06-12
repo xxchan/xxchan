@@ -22,7 +22,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-05 June, 2021 - 11 June, 2021
+06 June, 2021 - 12 June, 2021
 
 Markdown       4 hrs 7 mins    ███████████░░░░░░░░░░░░░░   43.81 % 
 Go             2 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   29.00 % 
