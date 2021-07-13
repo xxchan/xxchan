@@ -22,7 +22,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-06 July, 2021 - 12 July, 2021
+07 July, 2021 - 13 July, 2021
 
 Go         5 hrs 9 mins    ████████████████████░░░░░   81.85 % 
 Markdown   30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
