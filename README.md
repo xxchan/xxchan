@@ -1,6 +1,6 @@
 
 <p align="left">
-<a href="https://www.douban.com/people/keith1"><img src="https://img.shields.io/badge/@ixxchan-007722?style=flat&logo=Douban&logoColor=white" alt="Douban" /></a> 
+<a href="https://www.douban.com/people/ixxchan"><img src="https://img.shields.io/badge/@ixxchan-007722?style=flat&logo=Douban&logoColor=white" alt="Douban" /></a> 
 <a href="https://www.linkedin.com/in/xxchan/?locale=en_US"><img src="https://img.shields.io/badge/@xxchan-0073b1?style=flat&logo=LinkedIn&logoColor=white" alt="Linkedin" /></a> 
 <a href="https://twitter.com/yayale_umi"><img src="https://img.shields.io/badge/@yayale__umi-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/></a>
 </p>
