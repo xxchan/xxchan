@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-08 September, 2021 - 14 September, 2021
+09 September, 2021 - 15 September, 2021
 
 Rust       4 hrs 24 mins   ███████████████░░░░░░░░░░   60.40 % 
 Go         1 hr 53 mins    ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
