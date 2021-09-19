@@ -16,13 +16,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-12 September, 2021 - 18 September, 2021
+13 September, 2021 - 19 September, 2021
 
-Rust       4 hrs 5 mins    ██████████████████████░░░   88.25 % 
-Other      17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-TOML       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Makefile   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Rust   4 hrs 17 mins   █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
