@@ -16,11 +16,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-15 September, 2021 - 21 September, 2021
+16 September, 2021 - 22 September, 2021
 
-Rust         4 hrs 17 mins   ██████████████████░░░░░░░   72.19 % 
-Scala        1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   26.28 % 
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Rust         4 hrs 17 mins   ███████████████░░░░░░░░░░   62.03 % 
+Scala        2 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   32.82 % 
+Markdown     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 <!--END_SECTION:waka-->
