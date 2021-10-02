@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-25 September, 2021 - 01 October, 2021
+26 September, 2021 - 02 October, 2021
 
-Go           8 hrs 35 mins   ████████████░░░░░░░░░░░░░   49.02 % 
-Scala        5 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   31.06 % 
-Markdown     1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Other        59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-JavaScript   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Go           8 hrs 31 mins   █████████████░░░░░░░░░░░░   51.88 % 
+Scala        5 hrs 18 mins   ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Markdown     56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+JavaScript   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 <!--END_SECTION:waka-->
 
