@@ -27,8 +27,9 @@ def this_week() -> str:
     '''Returns a week streak'''
     utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
     bj_dt = utc_dt.astimezone(timezone(timedelta(hours=8)))
-
-    week_end = bj_dt - timedelta(days=1)
+    zrh_dt = utc_dt.astimezone(timezone(timedelta(hours=2)))
+    
+    week_end = zrh_dt - timedelta(days=1)
     week_start = week_end - timedelta(days=6)
     print("Week header created")
     print(week_end)
