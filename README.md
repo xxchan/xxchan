@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-02 October, 2021 - 08 October, 2021
+03 October, 2021 - 09 October, 2021
 
-Scala              6 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   38.82 % 
-Jupyter Notebook   4 hrs 47 mins   ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-C++                2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Go                 1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Markdown           36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Scala              6 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   34.93 % 
+Jupyter Notebook   3 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Go                 3 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+C++                3 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Markdown           24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 <!--END_SECTION:waka-->
 
