@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-24 October, 2021 - 30 October, 2021
+25 October, 2021 - 31 October, 2021
 
 Go       13 hrs 52 mins  █████████████████░░░░░░░░   67.60 % 
 Scala    2 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
