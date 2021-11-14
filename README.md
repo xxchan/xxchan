@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-07 November, 2021 - 13 November, 2021
+08 November, 2021 - 14 November, 2021
 
-Python             3 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   33.00 % 
-C++                2 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   22.79 % 
-Jupyter Notebook   2 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Scala              2 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Other              9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Python             3 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   30.07 % 
+C++                3 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+Jupyter Notebook   2 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Markdown           1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+SCSS               21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 <!--END_SECTION:waka-->
 
