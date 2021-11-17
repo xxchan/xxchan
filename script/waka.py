@@ -45,7 +45,7 @@ def make_graph(percent: float) -> str:
 
 
 def get_stats() -> str:
-    '''Gets API data and returns markdown progress'''
+    '''Gets API data and returns markdown progress. DO NOT include today!'''
     data = requests.get(
         f"https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key={waka_key}").json()
     while not data['data']['is_up_to_date']:
