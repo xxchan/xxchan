@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-29 November, 2021 - 05 December, 2021
+30 November, 2021 - 06 December, 2021
 
-C++        9 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   39.41 % 
-Go         4 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Scala      3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Rust       2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Log File   2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+C++                9 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   43.36 % 
+Scala              4 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Jupyter Notebook   2 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Rust               2 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Python             54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 <!--END_SECTION:waka-->
 
