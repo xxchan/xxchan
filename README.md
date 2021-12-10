@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-03 December, 2021 - 09 December, 2021
+04 December, 2021 - 10 December, 2021
 
-Scala              9 hrs 47 mins   ██████████████░░░░░░░░░░░   56.16 % 
-Jupyter Notebook   2 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-C++                2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Python             1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-JSON               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Scala              9 hrs 47 mins   ████████████░░░░░░░░░░░░░   50.06 % 
+C++                4 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   22.86 % 
+Jupyter Notebook   2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Python             1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+JSON               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 <!--END_SECTION:waka-->
 
