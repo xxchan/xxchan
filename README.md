@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-06 December, 2021 - 12 December, 2021
+07 December, 2021 - 13 December, 2021
 
-Scala              6 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   30.87 % 
-Rust               5 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-C++                4 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Jupyter Notebook   2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Python             1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+C++                6 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   27.12 % 
+Rust               5 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Jupyter Notebook   5 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Scala              4 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Python             1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 <!--END_SECTION:waka-->
 
