@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-08 December, 2021 - 14 December, 2021
+09 December, 2021 - 15 December, 2021
 
-C++                11 hrs 5 mins   ███████████░░░░░░░░░░░░░░   44.72 % 
-Rust               5 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   22.07 % 
-Jupyter Notebook   5 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Python             1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Bash               26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+C++                11 hrs 5 mins   ███████████░░░░░░░░░░░░░░   46.52 % 
+Rust               5 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   22.96 % 
+Jupyter Notebook   4 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Bash               26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Makefile           25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 <!--END_SECTION:waka-->
 
