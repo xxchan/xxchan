@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning database systems.
 - 💬 Welcome to chat with me.
-- 🍚 Collection of my toy projects are listed [here](https://github.com/ixxchan).
+- 🍚 [Collection of my toy projects](https://github.com/ixxchan).
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xxchan&theme=flat&column=7)](https://github.com/xxchan)
