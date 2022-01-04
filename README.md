@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-28 December, 2021 - 03 January, 2022
+29 December, 2021 - 04 January, 2022
 
 Rust     2 hrs 31 mins   ████████████████░░░░░░░░░   63.71 % 
 Text     1 hr 2 mins     ██████░░░░░░░░░░░░░░░░░░░   26.52 % 
