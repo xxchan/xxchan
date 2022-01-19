@@ -17,13 +17,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-12 January, 2022 - 18 January, 2022
+13 January, 2022 - 19 January, 2022
 
-Go           4 hrs 19 mins   ██████████████████████░░░   87.80 % 
-JavaScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python   1 min           █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
