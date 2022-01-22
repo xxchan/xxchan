@@ -16,11 +16,7 @@
 📊 **The last 7 days I spent my time on** 
 
 <!--START_SECTION:waka-->
-```text
-15 January, 2022 - 21 January, 2022
-
-Python   1 min           █████████████████████████   100.00 %
-```
+Oops, no coding activity at all :(
 <!--END_SECTION:waka-->
 
 <!--
