@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-17 January, 2022 - 23 January, 2022
+18 January, 2022 - 24 January, 2022
 
 JavaScript    25 mins         ████████████████████░░░░░   83.32 % 
 JSON          4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
