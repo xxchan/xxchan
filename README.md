@@ -17,12 +17,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-18 January, 2022 - 24 January, 2022
+19 January, 2022 - 25 January, 2022
 
-JavaScript    25 mins         ████████████████████░░░░░   83.32 % 
-JSON          4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Objective-J   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript    27 mins         █████████████████████░░░░   84.57 % 
+JSON          4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Objective-J   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 <!--END_SECTION:waka-->
 
