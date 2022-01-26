@@ -17,12 +17,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-19 January, 2022 - 25 January, 2022
+20 January, 2022 - 26 January, 2022
 
-JavaScript    27 mins         █████████████████████░░░░   84.57 % 
-JSON          4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Objective-J   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   1 hr 31 mins    ████████████████████░░░░░   81.67 % 
+EJS          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 <!--END_SECTION:waka-->
 
