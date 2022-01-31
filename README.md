@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-24 January, 2022 - 30 January, 2022
+25 January, 2022 - 31 January, 2022
 
 JavaScript   2 hrs 9 mins    █████████████████░░░░░░░░   70.77 % 
 EJS          33 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.55 % 
