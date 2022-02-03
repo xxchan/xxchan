@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning database systems.
-- 💬 Welcome to chat with me.
+- 💬 Welcome to chat with me in [Discussions](https://github.com/xxchan/xxchan/discussions) or any other places you can reach me.
 - 🍚 [Collection of my toy projects](https://github.com/ixxchan).
 
 
