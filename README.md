@@ -10,7 +10,7 @@
 - 🍚 [Collection of my toy projects](https://github.com/ixxchan).
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xxchan&theme=flat&column=7)](https://github.com/xxchan)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xxchan&theme=flat&column=7&row=1)](https://github.com/xxchan)
 
 
 📊 **The last 7 days I spent my time on** 
