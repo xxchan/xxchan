@@ -17,13 +17,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-09 February, 2022 - 15 February, 2022
+10 February, 2022 - 16 February, 2022
 
-Rust       23 hrs 31 mins  ██████████████░░░░░░░░░░░   57.25 % 
-OCaml      4 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Markdown   3 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-TeX        3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Clojure    1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Rust       22 hrs 15 mins  ████████████████░░░░░░░░░   65.37 % 
+TeX        3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+OCaml      2 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Markdown   1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Other      1 hr 6 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 <!--END_SECTION:waka-->
 
