@@ -17,13 +17,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-09 March, 2022 - 15 March, 2022
+10 March, 2022 - 16 March, 2022
 
-Rust               13 hrs 40 mins  ████████░░░░░░░░░░░░░░░░░   32.95 % 
-Scala              11 hrs 39 mins  ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-Jupyter Notebook   4 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-C++                2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Python             1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Rust               11 hrs 8 mins   ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+Scala              9 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Jupyter Notebook   4 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+C++                3 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Python             1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 <!--END_SECTION:waka-->
 
