@@ -17,13 +17,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-28 May, 2022 - 03 June, 2022
+29 May, 2022 - 04 June, 2022
 
-Rust               11 hrs 27 mins  ███████████████░░░░░░░░░░   59.71 % 
-Java               5 hrs 36 mins   ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Jupyter Notebook   33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Protocol Buffer    16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Python             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Rust               11 hrs 27 mins  ███████████████░░░░░░░░░░   62.54 % 
+Java               4 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   26.32 % 
+Jupyter Notebook   32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Protocol Buffer    28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Python             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 <!--END_SECTION:waka-->
 
