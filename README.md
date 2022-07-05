@@ -17,13 +17,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-28 June, 2022 - 04 July, 2022
+29 June, 2022 - 05 July, 2022
 
-Rust              18 hrs 44 mins  ███████████████████░░░░░░   75.54 % 
-JavaScript        2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Protocol Buffer   1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Other             1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-YAML              34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Rust              20 hrs 31 mins  ██████████████████░░░░░░░   73.57 % 
+JavaScript        2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other             2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Protocol Buffer   1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+YAML              41 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 <!--END_SECTION:waka-->
 
