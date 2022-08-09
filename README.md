@@ -17,13 +17,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-02 August, 2022 - 08 August, 2022
+03 August, 2022 - 09 August, 2022
 
-Rust              19 hrs 7 mins   █████████████████░░░░░░░░   70.82 % 
-TOML              3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Protocol Buffer   1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-YAML              1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Python            46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Rust              25 hrs 8 mins   ██████████████████░░░░░░░   72.17 % 
+TOML              3 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+YAML              2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Protocol Buffer   1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Python            46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 <!--END_SECTION:waka-->
 
