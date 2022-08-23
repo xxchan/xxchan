@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning database systems.
 - 💬 Welcome to chat with me in [Discussions](https://github.com/xxchan/xxchan/discussions) or any other places you can reach me.
+- 🌟 [OSS Insight about me](https://ossinsight.io/analyze/xxchan).
 - 🍚 [Collection of my toy projects](https://github.com/ixxchan).
-- 🌟 [OSS Insight about me](https://ossinsight.io/analyze/xxchan)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=xxchan&theme=flat&column=7&row=1)](https://github.com/xxchan) -->
 
