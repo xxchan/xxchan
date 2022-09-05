@@ -20,7 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-29 August, 2022 - 04 September, 2022
+30 August, 2022 - 05 September, 2022
 
 Rust    16 hrs 41 mins  ██████████████████░░░░░░░   72.01 % 
 YAML    1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
