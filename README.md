@@ -20,13 +20,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-30 September, 2022 - 06 October, 2022
+01 October, 2022 - 07 October, 2022
 
-Rust               12 hrs 49 mins  ████████████░░░░░░░░░░░░░   50.66 % 
-Jupyter Notebook   4 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Markdown           2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-YAML               2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-TOML               1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Rust               9 hrs 25 mins   ███████████░░░░░░░░░░░░░░   44.04 % 
+Jupyter Notebook   4 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Markdown           2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+YAML               2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+TOML               1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
 ```
 <!--END_SECTION:waka-->
 
