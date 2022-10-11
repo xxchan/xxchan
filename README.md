@@ -16,19 +16,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-📊 **The last 7 days I spent my time on** 
 
-<!--START_SECTION:waka-->
-```text
-04 October, 2022 - 10 October, 2022
-
-Rust               5 hrs 56 mins   ███████████░░░░░░░░░░░░░░   47.26 % 
-Jupyter Notebook   2 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-YAML               1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-TypeScript         1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Markdown           49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-```
-<!--END_SECTION:waka-->
 
 <!--
 **xxchan/xxchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
