@@ -13,9 +13,9 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=xxchan&theme=flat&column=7&row=1)](https://github.com/xxchan) -->
 
 
-
-<img src="/github-metrics.svg">
-
+<picture>
+<img src="/github-metrics.svg" alt="github metrics">
+</picture>
 
 
 <!--
