@@ -29,12 +29,12 @@ jobs:
           template: classic
           base: header
           base_indepth: yes
-          config_timezone: Europe/Helsinki
+          config_timezone: Europe/Zurich
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: user
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_repositories: yes
+          # plugin_notable_repositories: yes
           plugin_notable_skipped: epfl-ada/ada-2022-project-superplainteamname2022, pixelsdb/pixels, pixelsdb/pixels-trino, engula/engula, ericon-io/comments, ixxchan/.github, ixxchan/peerster, beyondstorage/site, beyondstorage/community, logseq/marketplace, facebookarchive/cargo-guppy
           plugin_notable_types: commit, pull_request, issue
