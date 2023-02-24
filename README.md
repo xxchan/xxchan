@@ -15,7 +15,7 @@
 
 
 <picture>
-<img src="/github-metrics.svg" alt="github metrics">
+<img src="/github-metrics.svg" alt="github metrics" style='visibility:visible'>
 </picture>
 
 
