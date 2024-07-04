@@ -12,11 +12,11 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=xxchan&theme=flat&column=7&row=1)](https://github.com/xxchan) -->
 
-
+<!--
 <picture>
 <img src="/github-metrics.svg" alt="github metrics" style='visibility:visible'>
 </picture>
-
+-->
 
 <!--
 **xxchan/xxchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
